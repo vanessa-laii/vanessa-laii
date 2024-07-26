@@ -1,7 +1,7 @@
 # 💫 About Me:
 I'm a 3rd year software engineering student at McMaster University.<br>I'm currently working on McMaster iGEM's personal website and wiki for the 2024 national jamboree competition.<br><br><be>
 
-- 👨‍💻 All of my projects are available at (https://vanessalai.vercel.app/)
+- 👨‍💻 All of my projects are available at https://vanessalai.vercel.app/
 
 
 ## 🌐 Socials:
