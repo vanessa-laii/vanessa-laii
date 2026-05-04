@@ -1,7 +1,9 @@
 # 💫 About Me:
-Hi! I'm Vanessa and I'm in my 4th year of software engineering at McMaster University.<br><br> Currently Software Engineering Intern at Royal Bank of Canada (RBC). Completing a 12 month work term in the Innovation & Technology, DevOps Team! Experienced with CI/CD pipelines, Automation, Site Reliability Engineering and Platform Engineering. <br> <br><be>
+Hi I'm Vanessa, I'm currently a Software Engineering student at McMaster University! I was a previous SWE at Royal Bank of Canada (RBC) working on DevOps, Site Reliability Engineering (SRE), Distributed Systems and Full Stack Engineering. Learn more about me at my website [here!](https://www.vanessalai.ca/)
 
-- 👨‍💻 All of my experiences, projects, resume and blog posts 👀 are available at [my personal website](https://vanessa-laii.github.io/)
+I'm currently looking for new grad 2027 swe roles in Infrastructure, Systems Engineering and DevOps/SRE. 
+
+Reach me at vanessa.sw.lai@gmail.com
 
 
 ## 🌐 Socials:
